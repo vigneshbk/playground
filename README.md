@@ -1,4 +1,4 @@
-playgrount
+playground
 ==========
 
-My tools projects/interests .....
+My tools projects/interests ..... dreams and aspirations :)
